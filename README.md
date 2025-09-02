@@ -34,9 +34,10 @@ Sou um desenvolvedor **Front-End** apaixonado por criar interfaces que vão alé
 
 ---
 
-## 🌍 Onde me encontrar  
-📫 [Email](mailto:hi.mathsanada@gmail.com)  
-📷 [Instagram](https://instagram.com/mathsanada)  
+## 🚀 Minhas Conexões  
+
+![Email](https://img.shields.io/badge/Email-hi.mathsanada%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)  
+[![Instagram](https://img.shields.io/badge/Instagram-@mathsanada-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mathsanada)  
 
 ---
 
