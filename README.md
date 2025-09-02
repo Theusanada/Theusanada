@@ -21,6 +21,9 @@ Sou um desenvolvedor **Front-End** apaixonado por criar interfaces que vão alé
 ### 🎨 Design/UI  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=adobe&logoColor=white)  
 
+### 🎬 Motion & 3D  
+![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white)  
+
 ### ⚙️ Outros  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
@@ -28,7 +31,7 @@ Sou um desenvolvedor **Front-End** apaixonado por criar interfaces que vão alé
 
 ## 📊 O que eu entrego  
 ✔️ Interfaces modernas e responsivas  
-✔️ Experiências imersivas com **UI Motion e 3D**  
+✔️ Experiências imersivas com **UI Motion e 3D** (incluindo **Spline** interativo)  
 ✔️ Código limpo, estruturado e escalável  
 ✔️ Design e prototipagem que se conectam diretamente com o desenvolvimento  
 
